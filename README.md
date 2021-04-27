@@ -42,7 +42,7 @@ user@linux:~/idefox-sdk$ sudo ./mount_chroot.sh .
 user@linux:~/idefox-sdk$ sudo chroot .
 ```
 
-Let's say you are missing someting in your dev environemnt. You can simply install Debian packages.
+Let's say you are missing someting in your dev environment. You can simply install Debian packages.
 ```bash
 root@linux:~# apt-get update
 root@linux:~# apt-get install vim
