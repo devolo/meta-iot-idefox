@@ -58,3 +58,5 @@ root@linux:~/htop-2.2.0# make
 root@linux:~/htop-2.2.0# scp htop root@192.168.137.110:
 ```
 
+## Where?
+If you now desire to get you hands on this new device, you can get one in the [devolo web shop](https://www.devolo.de/iot-gateway). The web page also provides more information, use cases and a data sheet. Or email us at smart@devolo.de and tell us what you need. Ask us anything and let's discuss how we can assist you to reach your goals.
